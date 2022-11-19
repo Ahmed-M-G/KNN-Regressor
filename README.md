@@ -11,7 +11,9 @@
    
    - ## Task_4: This Task uses the bike-sharing dataset. The goal is to predict the count of total rental bikes using the KNN Regressor and the OLS Linear Regression.
        * Day Dataset
+       
           ![image](https://user-images.githubusercontent.com/68587770/202859821-6e8044d3-8a4a-4d33-b15b-9fe039b8db03.png)
        * Hour Dataset
+       *
           ![image](https://user-images.githubusercontent.com/68587770/202859833-54c0088e-b3b1-4da2-abda-82c418b34691.png)
 
