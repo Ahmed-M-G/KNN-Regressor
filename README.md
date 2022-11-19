@@ -1,7 +1,7 @@
 # KNN-Regressor
  Using KNN-Regressor for many different tasks
    - ## Task_1: Generate a random dataset and apply the concept of KNN Regression to it.
-      ![image](https://user-images.githubusercontent.com/68587770/202859774-5f200aff-d4f7-408d-9e76-0ca9a8ba5c28.png)
+      ![image](https://user-images.githubusercontent.com/68587770/202859912-51b8989b-5a66-439c-96ca-2934374722af.png)
       
    - ## Task_2: Generate a random data set and compare K-Nearest Neighbors Regressor and Linear Regression using the linearity problem.
       ![image](https://user-images.githubusercontent.com/68587770/202859786-701d664d-4fa8-4381-b76b-eb914357841c.png)
