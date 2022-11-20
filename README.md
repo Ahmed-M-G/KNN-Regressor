@@ -1,5 +1,6 @@
 # KNN-Regressor
  **Using KNN-Regressor for many different tasks**
+ 
    - ## **_Task_1_**: Generate a random dataset and apply the concept of KNN Regression to it.
       ![image](https://user-images.githubusercontent.com/68587770/202859912-51b8989b-5a66-439c-96ca-2934374722af.png)
       
